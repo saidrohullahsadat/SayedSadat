@@ -91,14 +91,6 @@ I build modern, scalable, and maintainable applications, combining intuitive fro
 ---
 
 
-## GitHub Statistics
-
-\<p align="center">   \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=saidrohullahsadat&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=saidrohullahsadat\&show_icons=true\&include_all_commits=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" alt="GitHub Profile Statistics" />   \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=saidrohullahsadat&layout=compact&langs_count=8&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saidrohullahsadat\&layout=compact\&langs_count=8\&theme=github_dark\&hide_border=true)" alt="Most Used Programming Languages" /> \</p>
-
-\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=saidrohullahsadat&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=saidrohullahsadat\&theme=github-dark-blue\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
-
----
-
 
 ## Current Focus
 
