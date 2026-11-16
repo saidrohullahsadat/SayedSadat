@@ -1,5 +1,3 @@
-
-
 # Sayed Rohullah Sadat
 
 ### Full-Stack Developer | Software Engineer | Computer Science Student
@@ -8,7 +6,7 @@
 
 I am a Computer Science student at **Herat University**, passionate about software engineering and full-stack development.
 
-I build modern, scalable, and maintainable applications, combining intuitive frontend experiences with reliable backend architectures. My interests include system design, database management, API development, and solving real-world problems through technology.
+I build modern, scalable, and maintainable applications, combining intuitive frontend experiences with reliable backend architectures. My interests include system design, database management, API development, and building impactful digital solutions.
 
 ---
 
@@ -17,6 +15,7 @@ I build modern, scalable, and maintainable applications, combining intuitive fro
 <p align="left">
 <a href="https://github.com/saidrohullahsadat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/said-rohollah-sadat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sadatwebportfolio-1vksny8bz-liwi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.fiverr.com/said_rohullah"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 <a href="mailto:sadatsayed1489@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -90,8 +89,6 @@ I build modern, scalable, and maintainable applications, combining intuitive fro
 
 ---
 
-
-
 ## Current Focus
 
 - Building full-stack applications using **ASP.NET Core, React, and TypeScript**.
@@ -109,4 +106,3 @@ I build modern, scalable, and maintainable applications, combining intuitive fro
 <p align="center">
 <em>Always learning. Always building. Always improving.</em>
 </p>
-
